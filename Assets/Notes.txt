@@ -1,0 +1,9 @@
+﻿movement:
+    the player stands still
+    the world moves around it
+    the player only falls along the vertical axis due to gravity
+rail grinding:
+    triggers on both sides of the pole to detect the rails
+    when not grounded both triggers have to detect a rail (perhaps a few invincibility frames due to physics unreliableness)
+
+
